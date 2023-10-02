@@ -1,2 +1,2 @@
 # twin_wordle
-Recreation of World Game
+Recreation of Wordle Game
